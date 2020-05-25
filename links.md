@@ -1,6 +1,6 @@
 ## Polybius сам о себе
 
-- https://cryptor.net/company/polybius-foundation
+- <https://cryptor.net/company/polybius-foundation>
 - https://habr.com/ru/users/polybiusbank/posts/
 - https://habr.com/ru/company/polybius/blog/402779
 - https://medium.com/@PolybiusEU 
