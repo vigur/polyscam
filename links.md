@@ -34,8 +34,3 @@
 - <https://digi.geenius.ee/rubriik/uudis/eestis-kruptoraha-panka-lubav-ettevotte-suutis-koguda-inimestelt-ligi-30-miljonit-eurot/>
 - [Доказательство предоставление ложной информации инвесторам](https://digi.geenius.ee/rubriik/uudis/ernst-young-distantseerib-end-eestis-miljoneid-koguvast-blockchaini-ettevottest)
 - <https://polybius.io/polybius-in-the-news/> 
-
-## Арxив www.polybius.io
-
-- [Web archive сайта от апреля 2017 года](https://web.archive.org/web/20170420094524/http://www.polybius.io/)
-- [Web archive сайта от мая 2017 года](https://web.archive.org/web/20170517064646/<https://polybius.io/)

@@ -4,6 +4,10 @@
 - [Prospectus от Мая 2017](docs/ico/prospectus.pdf)
 - [Whitepaper от Мая 2017](docs/ico/token_whitepaper.pdf)
 - [Business model от Мая 2017](docs/ico/business_model.pdf)
+- [Escrow arrangement](docs/ico/escrow_arrangement.pdf)
+- [Terms and coditions](docs/ico/terms_and_conditions.pdf)
+- [Privacy Policy](docs/ico/privacy_policy.pdf)
+- [видео Meet Polybius, скрыто на официальном канале](https://www.youtube.com/watch?v=LEQoFuJ2Zx8)
 
 ## Финансовые отчеты
 
@@ -27,6 +31,17 @@
 
 - [Virtuaalvääringu raha vastu vahetamise teenus - FVR000810](https://mtr.mkm.ee/taotluse_tulemus/506097)
 - [Virtuaalvääringu rahakotiteenus - FRK000612](https://mtr.mkm.ee/taotluse_tulemus/501496)
+
+## Арxив www.polybius.io
+
+```
+Основные документы были добавлены только в Июне (в Мае доступен только проспект). По ходу проведения ICO менялись адвайзеры и майлстоуны. 
+```
+
+- [Web archive сайта от апреля 2017 года](https://web.archive.org/web/20170420094524/http://www.polybius.io/)
+- [Web archive сайта от мая 2017 года](https://web.archive.org/web/20170517064646/https://polybius.io/)
+- [Web archive сайта от июня 2017 года](https://web.archive.org/web/20170604144240/https://polybius.io/#documents)
+- [Web archive сайта от августа 2017 года](https://web.archive.org/web/20170806071446/https://polybius.io/)
 
 ### Ссылки
 
