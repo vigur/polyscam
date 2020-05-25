@@ -3,6 +3,7 @@
 
 - [Prospectus от Мая 2017](docs/ico/prospectus.pdf)
 - [Whitepaper от Мая 2017](docs/ico/token_whitepaper.pdf)
+- [Business model от Мая 2017](docs/ico/business_model.pdf)
 
 ## Финансовые отчеты
 
