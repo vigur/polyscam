@@ -24,6 +24,8 @@
 
 ## Сторонние статьи о Polybius
 
+- <https://www.aripaev.ee/uudised/2017/06/06/hoiatus-finantsinspektsioon-Polybius-Foundation>
+- <https://www.aripaev.ee/search?q=polybius>
 - <https://www.err.ee/601203/kruptorahafirma-kogub-raha-panga-asutamiseks-inspektsioon-on-skeptiline>
 - <https://rus.err.ee/search?phrase=polybius>
 - <https://forklog.com/gotovitsya-k-otkrytiyu-pervyj-bank-dlya-kriptobiznesa-polybius-bank/>  
