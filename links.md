@@ -24,6 +24,8 @@
 
 ## Сторонние статьи о Polybius
 
+- <https://www.err.ee/601203/kruptorahafirma-kogub-raha-panga-asutamiseks-inspektsioon-on-skeptiline>
+- <https://rus.err.ee/search?phrase=polybius>
 - <https://forklog.com/gotovitsya-k-otkrytiyu-pervyj-bank-dlya-kriptobiznesa-polybius-bank/>  
 - <https://forklog.com/polybius-foundation-prezentovala-proekt-pervogo-banka-dlya-kriptobiznesa/>  
 - <https://forklog.com/tsifrovoj-bank-polybius-zapuskaet-ico/>  
