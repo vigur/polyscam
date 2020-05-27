@@ -7,8 +7,8 @@
 - [Escrow arrangement](docs/ico/escrow_arrangement.pdf)
 - [Terms and coditions](docs/ico/terms_and_conditions.pdf)
 - [Privacy Policy](docs/ico/privacy_policy.pdf)
-- [Рекламные виде на английском](https://www.youtube.com/playlist?list=PLjlIy-7g2Ve_HYJbI64EP6t5zuS7dPJkB)
-- [Рекламные виде на русском](https://www.youtube.com/playlist?list=PLjlIy-7g2Ve-Rf1f8HxOjT6xzmfRhOBSX)
+- [Рекламные видео на английском](https://www.youtube.com/playlist?list=PLjlIy-7g2Ve_HYJbI64EP6t5zuS7dPJkB)
+- [Рекламные видео на русском](https://www.youtube.com/playlist?list=PLjlIy-7g2Ve-Rf1f8HxOjT6xzmfRhOBSX)
 
 ## Финансовые отчеты
 
