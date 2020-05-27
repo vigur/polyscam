@@ -40,6 +40,6 @@
 - [Доказательство предоставление ложной информации инвесторам](https://digi.geenius.ee/rubriik/uudis/ernst-young-distantseerib-end-eestis-miljoneid-koguvast-blockchaini-ettevottest)
 - <https://polybius.io/polybius-in-the-news/> 
 - <https://bits.media/intervyu-s-predstavitelem-tsifrovogo-banka-polibius/>
-- [Видео: Edgar Bers на конференции представляет Polybius Bank](https://www.youtube.com/watch?v=dV8xk9aDRFU&t=141s)
+- [Видео: Edgar Bers на конференции представляет Polybius Bank](https://www.youtube.com/watch?v=dV8xk9aDRFU)
 - [Видео: Интервью с основателями Полибиуса](https://www.youtube.com/watch?v=LE0_75pyKC0)
 - [Видео: обзор ICO](https://www.youtube.com/watch?v=-VHf0hhzxaE)
