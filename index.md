@@ -22,7 +22,10 @@
 
 ## Cуд
 
-- 06.01.2020 [Решение суда, est](docs/lawsuit/kohtuotsus_06.01.2020.pdf), [**Источник**](https://www.riigiteataja.ee/kohtulahendid/fail.html?fid=267093508)
+
+- 06.01.2020 [Отказ в апелляции, Решение суда, est](docs/lawsuit/kohtuotsus_06.01.2020.pdf), [**Источник**](https://www.riigiteataja.ee/kohtulahendid/fail.html?fid=267093508)
+- 28.05.2019 [Встречный иск, Решение суда, est](docs/lawsuit/kohtuotsus_28.05.2019.pdf), [**Источник**](https://www.riigiteataja.ee/kohtulahendid/fail.html?fid=267732495)
+- [2-18-16076](https://www.riigiteataja.ee/kohtulahendid/otsingutulemus.html?kohtuasjaNumber=2-18-16076)
 - [Юристы полибиуса](https://www.sorainen.com/deals/estonian-court-explains-tokenholders-rights)
 
 ### Лицензии полибиуса

@@ -24,6 +24,7 @@
 
 ## Сторонние статьи о Polybius
 
+- <https://www.aripaev.ee/borsiuudised/2018/01/19/mees-kus-mu-tokenid-on-jargmised-kruptoinvestorid-muretsevad-raha-parast>
 - <https://www.aripaev.ee/uudised/2017/06/06/hoiatus-finantsinspektsioon-Polybius-Foundation>
 - <https://www.aripaev.ee/search?q=polybius>
 - <https://www.err.ee/601203/kruptorahafirma-kogub-raha-panga-asutamiseks-inspektsioon-on-skeptiline>
