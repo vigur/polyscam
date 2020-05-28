@@ -28,14 +28,14 @@
 
 ## Polybius bank на конференциях до ICO
 
-- [Blockchain & Bitcoin Conference Prague, **17 May 2017**](https://prague.bc.events/en/news/blokcheyn-v-bankovskoy-sfere-keys-ot-predstavitelya-hashcoins-edgara-bersa-67436)
+- 17.05.2017: [Blockchain & Bitcoin Conference Prague](https://prague.bc.events/en/news/blokcheyn-v-bankovskoy-sfere-keys-ot-predstavitelya-hashcoins-edgara-bersa-67436)
 - [Фото с Bitcoin Conference Prague 2017, Polybius bank cпонсор и докладчик](https://www.smileexpo.eu/public/upload/albumPhotoRows/photo_2017_14956303156773_image.jpg), [**Галерея**](https://prague.bc.events/en/photo-2017)
 - <https://calvinayre.com/2017/05/25/press-releases/blockchain-bitcoin-conference-prague-participants-discussed-future-blockchain-cryptocurrencies/>
-- [Blockchain & Bitcoin Conference St Petersburg, **22 June 2017**](https://spb.bc.events/en/article/polybius-bank-sponsor-innovatsionnogo-bankinga-69845)
+- 22.06.2017: [Blockchain & Bitcoin Conference St Petersburg](https://spb.bc.events/en/article/polybius-bank-sponsor-innovatsionnogo-bankinga-69845)
 - [Edgar Bers at conference in St Petersburg](https://spb.bc.events/en/article/v-nas-vkladivayutsya-adepti-kriptovalyutnogo-mira-polybius-bank-69948), [**link 2**](https://spb.bc.events/en/article/blokcheyn-v-finansah-keys-ot-predstavitelya-hashcoins-na-blockchain-bitcoin-conference-69832)
-- [Blockchain & Bitcoin Conference Tallinn, **9 March 2017**](https://tallinn.bc.events/en/article/polybius-bank-perviy-bank-orientiruyushchiysya-na-rabotu-s-kriptovalyutnim-biznesom-v-evrope-65187)
+- 09.03.2017 [Blockchain & Bitcoin Conference Tallinn](https://tallinn.bc.events/en/article/polybius-bank-perviy-bank-orientiruyushchiysya-na-rabotu-s-kriptovalyutnim-biznesom-v-evrope-65187)
 - [Edgar Bers at conference in Tallinn](https://www.smileexpo.eu/public/upload/albumPhotoRows/photo_2017_14895888714821_image.jpg), [**Галерея**](https://tallinn.bc.events/en/photo-2017)
-- [Digital Finance World March 2017, Frankfurt](https://www.kuppingercole.com/events/dfw2017/speakers/1538)
+- 03.2017: [Digital Finance World March 2017, Frankfurt](https://www.kuppingercole.com/events/dfw2017/speakers/1538)
 - [Edgar Bers at Digital Finance World, Frankfurt](https://www.kuppingercole.com/photo/dfw2017/12_IMG_005303.jpg), [**Галерея**](https://www.kuppingercole.com/gallery/dfw2017)
 - [Видео: Edgar Bers на конференции представляет Polybius Bank](https://www.youtube.com/watch?v=dV8xk9aDRFU)
 - [Видео: Интервью с Pavel Tsihhotski на Expo 2017](https://www.youtube.com/watch?v=E4CfDhaiV6Q)
