@@ -29,7 +29,7 @@
 ## Polybius bank на конференциях до ICO
 
 - [Blockchain & Bitcoin Conference Prague, 17 May 2017](https://prague.bc.events/en/news/blokcheyn-v-bankovskoy-sfere-keys-ot-predstavitelya-hashcoins-edgara-bersa-67436)
-- [Фото с Bitcoin Conference Prague 2017, Polybius bank cпонсор и докладчик](https://www.smileexpo.eu/public/upload/albumPhotoRows/photo_2017_14956303156773_image.jpg), [Галерея](https://prague.bc.events/en/photo-2017)
+- [Фото с Bitcoin Conference Prague 2017, Polybius bank cпонсор и докладчик](https://www.smileexpo.eu/public/upload/albumPhotoRows/photo_2017_14956303156773_image.jpg), [**Галерея**](https://prague.bc.events/en/photo-2017)
 - <https://calvinayre.com/2017/05/25/press-releases/blockchain-bitcoin-conference-prague-participants-discussed-future-blockchain-cryptocurrencies/>
 - [Видео: Edgar Bers на конференции представляет Polybius Bank](https://www.youtube.com/watch?v=dV8xk9aDRFU)
 - [Видео: Интервью с Pavel Tsihhotski на Expo 2017](https://www.youtube.com/watch?v=E4CfDhaiV6Q)
@@ -56,7 +56,7 @@
 - <https://bitcoinchaser.com/polybius>
 - <https://u.today/past-ico-review-why-you-cant-take-polybius-to-the-bank>
 - [Видео: обзор ICO 1](https://www.youtube.com/watch?v=-VHf0hhzxaE)
-- [Видео: обзор ICO 2] (https://www.youtube.com/watch?v=tZpL0ro8Ias)
+- [Видео: обзор ICO 2](https://www.youtube.com/watch?v=tZpL0ro8Ias)
 - [Aудио: Интервью c Daniel Haudenschild](https://soundcloud.com/junsethsworld/daniel-haudenschild-of-ernst-young-discusses-polybius-ico-6617-1151)
 
 ## Другое
