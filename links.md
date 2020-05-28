@@ -43,11 +43,13 @@
 
 ## Сторонние статьи о Polybius
 
+- <https://bitcoin-live.de/interview-mit-polybius-blockchain-expo-2017/>
 - <https://www.aripaev.ee/borsiuudised/2018/01/19/mees-kus-mu-tokenid-on-jargmised-kruptoinvestorid-muretsevad-raha-parast>
 - <https://www.aripaev.ee/uudised/2017/06/06/hoiatus-finantsinspektsioon-Polybius-Foundation>
 - <https://www.aripaev.ee/search?q=polybius>
 - <https://www.err.ee/601203/kruptorahafirma-kogub-raha-panga-asutamiseks-inspektsioon-on-skeptiline>
 - <https://rus.err.ee/search?phrase=polybius>
+- <https://forklog.com/attic-lab-i-polibius-foundation-obedinyat-usiliya-dlya-sozdaniya-tsifrovogo-banka/>
 - <https://forklog.com/gotovitsya-k-otkrytiyu-pervyj-bank-dlya-kriptobiznesa-polybius-bank/>  
 - <https://forklog.com/polybius-foundation-prezentovala-proekt-pervogo-banka-dlya-kriptobiznesa/>  
 - <https://forklog.com/tsifrovoj-bank-polybius-zapuskaet-ico/>  
@@ -61,6 +63,8 @@
 - <https://bits.media/intervyu-s-predstavitelem-tsifrovogo-banka-polibius/>
 - <https://bitcoinchaser.com/polybius>
 - <https://u.today/past-ico-review-why-you-cant-take-polybius-to-the-bank>
+- <https://www.rubaltic.ru/press/blokcheyn-konferentsiya300317/>
+- <https://cryptocurrency.tech/proekt-polybius-planiruet-privlech-do-polumilliona-polzovatelej-posle-ico/>
 - [Видео: обзор ICO 1](https://www.youtube.com/watch?v=-VHf0hhzxaE)
 - [Видео: обзор ICO 2](https://www.youtube.com/watch?v=tZpL0ro8Ias)
 - [Aудио: Интервью c Daniel Haudenschild](https://soundcloud.com/junsethsworld/daniel-haudenschild-of-ernst-young-discusses-polybius-ico-6617-1151)
