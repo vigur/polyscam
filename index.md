@@ -48,6 +48,10 @@
 - [Web archive сайта от июня 2017 года](https://web.archive.org/web/20170604144240/https://polybius.io/#documents)
 - [Web archive сайта от августа 2017 года](https://web.archive.org/web/20170806071446/https://polybius.io/)
 
+## Токен PLBT
+
+- [Smart contract PLBT](https://etherscan.io/address/0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02#code)
+
 ### Ссылки
 
 - [Список ресурсов где Polybius рекламировал себя как банк до ICO](links.md)
