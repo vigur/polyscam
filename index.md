@@ -37,8 +37,9 @@
 
 ![Licenses](images/polybius_licenses.jpg)
 
-- [Virtuaalvääringu raha vastu vahetamise teenus - FVR000810](https://mtr.mkm.ee/taotluse_tulemus/506097)
-- [Virtuaalvääringu rahakotiteenus - FRK000612](https://mtr.mkm.ee/taotluse_tulemus/501496)
+- [Virtuaalvääringu teenus - FVT000204](https://mtr.mkm.ee/taotluse_tulemus/544901)
+- [**Недействительна** Virtuaalvääringu raha vastu vahetamise teenus - FVR000810](https://mtr.mkm.ee/taotluse_tulemus/506097)
+- [**Недействительна** Virtuaalvääringu rahakotiteenus - FRK000612](https://mtr.mkm.ee/taotluse_tulemus/501496)
 
 ## Арxив www.polybius.io
 
