@@ -12,6 +12,10 @@
 
 ## Финансовые отчеты
 
+- [Годовой отчет 2019, est](docs/finance/Polybius Foundation OÜ_aruanne_2019_est.pdf)
+- [Non consolidated statement of financial position 2019, eng](docs/finance/Non consolidated statement of financial position_2019_eng.pdf)
+- [Non consolidated statement of cash flows (indirect method) 2019, eng](docs/finance/Non consolidated statement of cash flows (indirect method)_2019_eng.pdf)
+- [Non consolidated income statement (scheme 1) 2019, eng](docs/finance/Non consolidated income statement (scheme 1)_2019_eng.pdf)
 - [Годовой отчет 2018, est](docs/finance/Polybius Foundation OÜ_aruanne_2018_est.pdf)
 - [Годовой отчет 2017, eng](docs/finance/Polybius Foundation OÜ_aruanne_2017_eng.pdf)
 
@@ -55,6 +59,7 @@
 ### Ссылки
 
 - [Список ресурсов где Polybius рекламировал себя как банк до ICO](links.md)
+- [Bank of Lithuania GUIDELINES ON SECURITIES TOKEN OFFERINGS](https://www.aipt.lt/lietuvos-bankas-kviecia-issakyti-nuomone-del-vertybiniu-popieriu-pozymiu-turinciu-zetonu-siulymo-gairiu/), [**PDF**](https://www.lb.lt/uploads/consultations/docs/21877_57f454a0941b935920614c709cf9b937.pdf)
 - [Правила получения криптолицензии в Эстонии](https://forklog.com/yuristy-rasskazali-o-novyh-pravilah-polucheniya-kriptolitsenzii-v-estonii)
 - [Как Эстония регулирует ICO и криптовалюты](https://lawstrust.com/news/kak-ehstoniya-reguliruet-ico-i-kriptovalyuty)
 - [Коллективный иск на EOS после ICO](https://forklog.com/protiv-block-one-broka-pirsa-i-dena-larimera-podan-kollektivnyj-isk-v-svyazi-s-ico-proekta-eos/)

@@ -43,6 +43,7 @@
 
 ## Сторонние статьи о Polybius
 
+- [Предупреждение Финансовой испекции](https://www.fi.ee/en/alerts/information-polybius-foundation-ou)
 - <https://bitcoin-live.de/interview-mit-polybius-blockchain-expo-2017/>
 - <https://www.aripaev.ee/borsiuudised/2018/01/19/mees-kus-mu-tokenid-on-jargmised-kruptoinvestorid-muretsevad-raha-parast>
 - <https://www.aripaev.ee/uudised/2017/06/06/hoiatus-finantsinspektsioon-Polybius-Foundation>
