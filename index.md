@@ -21,6 +21,7 @@
 
 ## Статьи в медиа
 
+- 28.12.2020 [Полиция расследует деятельность компании, основанной Ида-Вирускими "криптомиллионерами"](docs/article/Полиция расследует деятельность компании, основанной Ида-Вирускими криптомиллионерами.pdf), [**Источник**](https://www.dv.ee/jepicentr/2020/12/27/policija-rassleduet-dejatelnost-kompanii-osnovannoj-ida-viruskimi-kriptomillionerami-oni-otricajut-prichastnost-k-biznesu)
 - 20.05.2020 [Ида-Вируские криптомиллионеры одержали победу над малым инвестором](docs/article/Ида_Вируские_криптомиллионеры_одержали_победу_над_малым_инвестором.pdf), [**Источник**](https://www.dv.ee/novosti/2020/05/20/ida-viruskie-kriptomillionery-oderzhali-pobedu-nad-malym-investorom)
 - 14.01.2020 [Криптобанк Polybius, собравший €28 млн, может так и остаться мечтой](docs/article/Криптобанк Polybius, собравший €28 млн, может так и остаться мечтой.pdf), [**Источник**](https://www.dv.ee/novosti/2020/01/14/kriptobank-polybius-sobravshij-28-mln-mozhet-tak-i-ostatsja-mechtoj)
 - [Деловые ведомости](https://www.dv.ee/search?q=Polybius&sort=date)
